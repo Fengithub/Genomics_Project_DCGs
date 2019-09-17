@@ -1,0 +1,133 @@
+RNA transport
+Fatty acid elongation in mitochondria
+Endocytosis
+Protein processing in endoplasmic reticulum
+Biotin metabolism
+Cardiac muscle contraction
+Gastric acid secretion
+mRNA surveillance pathway
+Valine, leucine and isoleucine degradation
+Thiamine metabolism
+Salivary secretion
+Propanoate metabolism
+Ribosome biogenesis in eukaryotes
+Spliceosome
+RIG-I-like receptor signaling pathway
+Base excision repair
+Sulfur relay system
+Bacterial invasion of epithelial cells
+Leukocyte transendothelial migration
+Tryptophan metabolism
+VEGF signaling pathway
+Aldosterone-regulated sodium reabsorption
+Alzheimer's disease
+Vasopressin-regulated water reabsorption
+Glutathione metabolism
+Progesterone-mediated oocyte maturation
+Ribosome
+ErbB signaling pathway
+Terpenoid backbone biosynthesis
+Fc gamma R-mediated phagocytosis
+Other glycan degradation
+Pantothenate and CoA biosynthesis
+Selenocompound metabolism
+Pancreatic secretion
+Amyotrophic lateral sclerosis (ALS)
+NOD-like receptor signaling pathway
+Renin-angiotensin system
+One carbon pool by folate
+GnRH signaling pathway
+Shigellosis
+Focal adhesion
+beta-Alanine metabolism
+Glioma
+RNA degradation
+Proximal tubule bicarbonate reclamation
+Epithelial cell signaling in Helicobacter pylori infection
+Regulation of actin cytoskeleton
+Adipocytokine signaling pathway
+Bile secretion
+Glycosaminoglycan biosynthesis - heparan sulfate
+Mucin type O-Glycan biosynthesis
+MAPK signaling pathway
+Oxidative phosphorylation
+Pancreatic cancer
+Melanoma
+Butanoate metabolism
+Chronic myeloid leukemia
+Huntington's disease
+Adherens junction
+Histidine metabolism
+Citrate cycle (TCA cycle)
+Thyroid cancer
+Fc epsilon RI signaling pathway
+Pathways in cancer
+Neurotrophin signaling pathway
+Tight junction
+Ubiquitin mediated proteolysis
+African trypanosomiasis
+Ether lipid metabolism
+Axon guidance
+Basal transcription factors
+Insulin signaling pathway
+Gap junction
+Apoptosis
+Metabolic pathways
+Small cell lung cancer
+Primary immunodeficiency
+Sphingolipid metabolism
+Porphyrin and chlorophyll metabolism
+Fructose and mannose metabolism
+DNA replication
+Prostate cancer
+Pyrimidine metabolism
+Carbohydrate digestion and absorption
+Fatty acid metabolism
+Wnt signaling pathway
+Aminoacyl-tRNA biosynthesis
+Lysine degradation
+Tyrosine metabolism
+Drug metabolism - other enzymes
+Purine metabolism
+Notch signaling pathway
+Amino sugar and nucleotide sugar metabolism
+T cell receptor signaling pathway
+Arginine and proline metabolism
+Pathogenic Escherichia coli infection
+Cytosolic DNA-sensing pathway
+Parkinson's disease
+Vibrio cholerae infection
+Non-small cell lung cancer
+Calcium signaling pathway
+Cell cycle
+Systemic lupus erythematosus
+Lysosome
+Chemokine signaling pathway
+Toxoplasmosis
+Metabolism of xenobiotics by cytochrome P450
+Osteoclast differentiation
+Cell adhesion molecules (CAMs)
+Drug metabolism - cytochrome P450
+Leishmaniasis
+Hepatitis C
+Natural killer cell mediated cytotoxicity
+Long-term depression
+Complement and coagulation cascades
+Glycerophospholipid metabolism
+Long-term potentiation
+Antigen processing and presentation
+PPAR signaling pathway
+Renal cell carcinoma
+Protein digestion and absorption
+Phosphatidylinositol signaling system
+Hypertrophic cardiomyopathy (HCM)
+Dilated cardiomyopathy
+Toll-like receptor signaling pathway
+Melanogenesis
+Chagas disease (American trypanosomiasis)
+Amoebiasis
+Oocyte meiosis
+Vascular smooth muscle contraction
+Phagosome
+Jak-STAT signaling pathway
+Cytokine-cytokine receptor interaction

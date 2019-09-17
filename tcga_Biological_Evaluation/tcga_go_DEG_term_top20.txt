@@ -1,0 +1,572 @@
+embryonic skeletal system morphogenesis
+axis elongation
+dendrite regeneration
+stromal-epithelial cell signaling involved in prostate gland development
+response to human chorionic gonadotropin
+specification of anterior mesonephric tubule identity
+specification of posterior mesonephric tubule identity
+renal vesicle progenitor cell differentiation
+metanephric interstitial fibroblast development
+convergent extension involved in somitogenesis
+negative regulation of canonical Wnt signaling pathway involved in controlling type B pancreatic cell proliferation
+ear development
+anterior/posterior pattern specification
+skeletal system development
+L-ascorbic acid biosynthetic process
+menstrual cycle phase
+intermediate mesoderm development
+pattern specification involved in mesonephros development
+cellular response to UV-A
+metanephric cap development
+metanephric smooth muscle tissue development
+metanephric cap mesenchymal cell proliferation involved in metanephros development
+negative regulation of Wnt signaling pathway involved in dorsal/ventral axis specification
+sensory organ morphogenesis
+neural crest cell fate commitment
+embryonic skeletal limb joint morphogenesis
+regulation of type B pancreatic cell proliferation
+negative regulation of nephron tubule epithelial cell differentiation
+ureter urothelium development
+negative regulation of planar cell polarity pathway involved in axis elongation
+creatinine metabolic process
+negative regulation of neurotrophin TRK receptor signaling pathway
+lung growth
+cellular response to heparin
+metanephric mesenchyme morphogenesis
+mesonephric duct morphogenesis
+pattern specification involved in metanephros development
+segmentation
+urogenital system development
+inner ear morphogenesis
+tendon development
+canonical Wnt signaling pathway involved in regulation of cell proliferation
+specification of nephron tubule identity
+mesangial cell development
+metanephric mesenchymal cell differentiation
+regulation of embryonic development
+ureteric bud development
+mesonephric epithelium development
+negative regulation of B cell differentiation
+mitotic spindle midzone assembly
+bud elongation involved in lung branching
+positive regulation of fibroblast apoptotic process
+sensory perception of sound
+negative regulation of osteoblast proliferation
+spindle elongation
+prostate epithelial cord arborization involved in prostate glandular acinus morphogenesis
+regulation of branching involved in prostate gland morphogenesis
+cellular response to X-ray
+kidney interstitial fibroblast differentiation
+Wnt signaling pathway involved in somitogenesis
+negative regulation of fibroblast apoptotic process
+positive regulation of gastrulation
+mesenchymal cell differentiation involved in renal system development
+pronephros development
+cellular response to UV-B
+gonad development
+cellular response to prostaglandin E stimulus
+renal system pattern specification
+metanephric glomerulus vasculature development
+positive regulation of non-canonical Wnt signaling pathway
+pancreatic juice secretion
+negative regulation of bone remodeling
+bone trabecula formation
+mesonephric tubule formation
+replicative senescence
+epithelial tube morphogenesis
+positive regulation of epithelial cell proliferation
+chordate embryonic development
+negative regulation of peptidyl-threonine phosphorylation
+gap junction assembly
+angiotensin maturation
+prostate glandular acinus development
+nephric duct development
+negative regulation of cell death
+negative regulation of JUN kinase activity
+regulation of angiotensin metabolic process
+cellular response to vitamin D
+regulation of Wnt signaling pathway, planar cell polarity pathway
+dentate gyrus development
+negative regulation of fibroblast growth factor receptor signaling pathway
+detection of mechanical stimulus involved in sensory perception of sound
+convergent extension
+hematopoietic stem cell differentiation
+negative regulation of androgen receptor signaling pathway
+establishment of planar polarity involved in neural tube closure
+planar cell polarity pathway involved in neural tube closure
+regulation of epithelial cell differentiation involved in kidney development
+regulation of ossification
+positive regulation of extrinsic apoptotic signaling pathway via death domain receptors
+establishment of mitotic spindle orientation
+decidualization
+cell proliferation involved in kidney development
+embryonic skeletal joint development
+neuronal stem cell maintenance
+anterograde axon cargo transport
+dorsal/ventral axis specification
+kidney mesenchyme development
+kidney development
+negative regulation of protein kinase activity
+positive regulation of focal adhesion assembly
+cellular response to estradiol stimulus
+cellular response to fibroblast growth factor stimulus
+cartilage condensation
+regulation of systemic arterial blood pressure by circulatory renin-angiotensin
+negative regulation of epithelial to mesenchymal transition
+phospholipid dephosphorylation
+cell-cell junction organization
+cell junction assembly
+negative regulation of osteoclast differentiation
+smooth muscle tissue development
+kidney vasculature development
+cellular response to BMP stimulus
+metanephric nephron tubule development
+middle ear morphogenesis
+beta-amyloid metabolic process
+response to abiotic stimulus
+chondrocyte development
+male genitalia development
+response to prostaglandin
+mitotic cytokinesis
+vitamin biosynthetic process
+establishment of spindle localization
+sex differentiation
+establishment of tissue polarity
+positive regulation of smoothened signaling pathway
+negative regulation of fibroblast proliferation
+protein K11-linked ubiquitination
+glial cell migration
+positive regulation of ATPase activity
+metanephric epithelium development
+reproductive process
+cellular response to nutrient
+prostate gland epithelium morphogenesis
+mesenchyme morphogenesis
+embryonic epithelial tube formation
+multicellular organismal process
+positive regulation of bone mineralization
+embryonic hindlimb morphogenesis
+negative regulation of insulin secretion
+negative regulation of peptidyl-tyrosine phosphorylation
+microtubule cytoskeleton organization involved in mitosis
+morphogenesis of a branching epithelium
+stem cell differentiation
+response to acid chemical
+negative regulation of epithelial cell differentiation
+cellular response to fatty acid
+regulation of establishment of planar polarity
+negative regulation of Ras protein signal transduction
+proximal/distal pattern formation
+embryonic forelimb morphogenesis
+system process
+response to progesterone
+morphogenesis of a polarized epithelium
+negative regulation of peptide secretion
+negative regulation of stress-activated MAPK cascade
+negative regulation of osteoblast differentiation
+detection of mechanical stimulus
+positive regulation of stress fiber assembly
+cellular response to radiation
+trabecula morphogenesis
+negative regulation of ERK1 and ERK2 cascade
+protein K63-linked ubiquitination
+collagen fibril organization
+positive regulation of fat cell differentiation
+ventricular cardiac muscle tissue morphogenesis
+regulation of cell-substrate junction assembly
+negative regulation of transferase activity
+embryo development
+regulation of systemic arterial blood pressure by hormone
+negative regulation of BMP signaling pathway
+regulation of adherens junction organization
+response to lipid
+regulation of calcium-mediated signaling
+negative regulation of epidermal growth factor receptor signaling pathway
+protein K48-linked ubiquitination
+metanephric nephron development
+cellular response to interleukin-1
+sensory perception
+regulation of programmed cell death
+visual learning
+endodermal cell differentiation
+muscle organ development
+tube formation
+response to axon injury
+maternal process involved in female pregnancy
+regulation of intracellular steroid hormone receptor signaling pathway
+regulation of tissue remodeling
+spindle assembly
+negative regulation of phosphorylation
+glomerulus development
+digestive tract morphogenesis
+lung morphogenesis
+anatomical structure morphogenesis
+regulation of actin filament bundle assembly
+negative regulation of MAP kinase activity
+mitotic spindle organization
+cell-substrate adherens junction assembly
+embryonic digit morphogenesis
+negative regulation of intracellular signal transduction
+negative regulation of hormone secretion
+reproductive system development
+cellular response to retinoic acid
+chondrocyte differentiation
+muscle tissue morphogenesis
+blood vessel development
+pattern specification process
+regulation of biomineral tissue development
+peptidyl-threonine modification
+cell-type specific apoptotic process
+somatic stem cell maintenance
+response to estradiol
+axon guidance
+Fc-gamma receptor signaling pathway involved in phagocytosis
+regulation of ERBB signaling pathway
+collagen catabolic process
+response to vitamin
+somite development
+nephron tubule morphogenesis
+negative regulation of leukocyte differentiation
+regulation of cell-matrix adhesion
+positive regulation of protein kinase B signaling
+negative regulation of protein modification process
+response to ketone
+endoderm development
+limbic system development
+tRNA processing
+establishment of cell polarity
+nephron morphogenesis
+regulation of systemic arterial blood pressure
+negative regulation of myeloid cell differentiation
+tube closure
+tissue morphogenesis
+negative regulation of phosphorus metabolic process
+palate development
+multicellular organismal development
+primary neural tube formation
+positive regulation of peptidyl-serine phosphorylation
+microtubule-based transport
+sensory perception of pain
+antigen processing and presentation of exogenous peptide antigen via MHC class II
+proteoglycan metabolic process
+water-soluble vitamin metabolic process
+cellular response to light stimulus
+cell-matrix adhesion
+female gonad development
+actin filament bundle organization
+antigen processing and presentation of peptide or polysaccharide antigen via MHC class II
+positive regulation of cell-substrate adhesion
+cardiac ventricle development
+regulation of B cell activation
+regulation of stem cell differentiation
+regulation of myeloid leukocyte differentiation
+renal tubule development
+regulation of small GTPase mediated signal transduction
+cellular response to tumor necrosis factor
+negative regulation of lymphocyte activation
+cardiac chamber morphogenesis
+cell recognition
+positive regulation of cell growth
+female sex differentiation
+formation of primary germ layer
+negative regulation of epithelial cell proliferation
+cellular response to hypoxia
+nephron epithelium development
+response to UV
+response to ionizing radiation
+female pregnancy
+odontogenesis
+positive regulation of ERK1 and ERK2 cascade
+male sex differentiation
+learning
+male gonad development
+multicellular organismal macromolecule metabolic process
+pallium development
+regulation of lymphocyte differentiation
+cellular response to oxygen levels
+stem cell development
+cytokinesis
+gland morphogenesis
+regeneration
+negative regulation of neuron apoptotic process
+positive regulation of canonical Wnt signaling pathway
+extracellular matrix disassembly
+actomyosin structure organization
+digestion
+cellular response to steroid hormone stimulus
+embryonic appendage morphogenesis
+neuron migration
+regulation of MAPK cascade
+cell morphogenesis
+stem cell proliferation
+negative regulation of apoptotic process
+negative regulation of cell activation
+digestive system development
+death
+mesenchymal cell development
+axon development
+placenta development
+negative regulation of cell growth
+mesenchyme development
+limb morphogenesis
+regulation of JNK cascade
+cellular response to starvation
+neural tube development
+regulation of protein serine/threonine kinase activity
+positive regulation of cytoskeleton organization
+embryonic organ morphogenesis
+cell morphogenesis involved in neuron differentiation
+regulation of extrinsic apoptotic signaling pathway
+response to light stimulus
+ossification
+protein metabolic process
+developmental growth
+neuron projection morphogenesis
+appendage development
+multicellular organism reproduction
+cardiac muscle tissue development
+negative regulation of protein transport
+regulation of cellular response to growth factor stimulus
+branching morphogenesis of an epithelial tube
+positive regulation of apoptotic signaling pathway
+hormone metabolic process
+chemotaxis
+signal transduction by phosphorylation
+antigen processing and presentation of exogenous antigen
+positive regulation of catalytic activity
+regulation of stress-activated protein kinase signaling cascade
+response to growth factor
+cellular response to oxidative stress
+negative regulation of cell migration
+carbohydrate biosynthetic process
+respiratory tube development
+regulation of body fluid levels
+regulation of peptide hormone secretion
+heterocycle metabolic process
+antigen processing and presentation of peptide antigen
+developmental process
+single-organism process
+visual perception
+regulation of angiogenesis
+response to organic cyclic compound
+cytoskeleton organization
+response to external stimulus
+second-messenger-mediated signaling
+negative regulation of cellular component movement
+negative regulation of cell differentiation
+cell adhesion
+regulation of transmembrane receptor protein serine/threonine kinase signaling pathway
+positive regulation of gene expression
+immune response-activating cell surface receptor signaling pathway
+connective tissue development
+respiratory system development
+cellular response to extracellular stimulus
+peptidyl-serine modification
+Fc receptor signaling pathway
+cellular response to transforming growth factor beta stimulus
+negative regulation of locomotion
+regulation of neuron death
+cognition
+aging
+negative regulation of cell development
+regulation of developmental growth
+regulation of peptide transport
+cell fate commitment
+negative regulation of protein metabolic process
+cell part morphogenesis
+cell cycle
+regulation of kinase activity
+heart development
+cellular amide metabolic process
+response to decreased oxygen levels
+intracellular receptor signaling pathway
+positive regulation of protein serine/threonine kinase activity
+regulation of cell morphogenesis involved in differentiation
+organic acid biosynthetic process
+positive regulation of cellular component biogenesis
+cellular macromolecule metabolic process
+monosaccharide metabolic process
+response to endogenous stimulus
+regulation of Wnt signaling pathway
+regulation of hemopoiesis
+muscle tissue development
+regulation of actin filament-based process
+positive regulation of transcription, DNA-templated
+hormone transport
+neurotrophin signaling pathway
+enzyme linked receptor protein signaling pathway
+negative regulation of molecular function
+negative regulation of transcription, DNA-templated
+regulation of transcription from RNA polymerase II promoter
+regulation of growth
+cellular calcium ion homeostasis
+peptidyl-tyrosine modification
+amide transport
+negative regulation of immune system process
+regulation of protein secretion
+locomotion
+negative regulation of RNA biosynthetic process
+regulation of protein phosphorylation
+divalent inorganic cation homeostasis
+ncRNA metabolic process
+single-organism behavior
+organelle localization
+detection of stimulus involved in sensory perception
+secretion
+positive regulation of GTPase activity
+regulation of hydrolase activity
+extracellular structure organization
+regulation of leukocyte activation
+establishment of localization
+cardiovascular system development
+cellular response to cytokine stimulus
+activation of immune response
+cell development
+response to drug
+response to nutrient levels
+blood circulation
+regulation of ARF protein signal transduction
+regulation of Ran protein signal transduction
+regulation of Rab protein signal transduction
+regulation of Ral protein signal transduction
+regulation of Rap protein signal transduction
+cell projection organization
+regulation of Cdc42 protein signal transduction
+regulation of Rac protein signal transduction
+signal release
+negative regulation of nucleobase-containing compound metabolic process
+neuron differentiation
+negative regulation of cell proliferation
+organ development
+nuclear division
+immune response-regulating signaling pathway
+microtubule-based process
+regulation of biological quality
+positive regulation of response to stimulus
+cellular response to organic substance
+negative regulation of response to stimulus
+regulation of cell cycle process
+cellular cation homeostasis
+movement of cell or subcellular component
+positive regulation of RNA biosynthetic process
+single-organism transport
+negative regulation of biosynthetic process
+regulation of phosphate metabolic process
+blood vessel morphogenesis
+nervous system development
+metal ion homeostasis
+positive regulation of kinase activity
+cellular response to nitrogen compound
+regulation of developmental process
+negative regulation of cellular component organization
+proteolysis
+single-organism organelle organization
+protein processing
+neurogenesis
+cell motility
+regulation of cell adhesion
+blood coagulation
+regulation of anatomical structure morphogenesis
+positive regulation of programmed cell death
+response to chemical
+endocytosis
+regulation of nervous system development
+cellular chemical homeostasis
+organic substance metabolic process
+regulation of cell motility
+immune effector process
+protein complex subunit organization
+regulation of secretion
+ion homeostasis
+positive regulation of nucleobase-containing compound metabolic process
+brain development
+protein ubiquitination
+regulation of primary metabolic process
+mitotic cell cycle process
+metabolic process
+positive regulation of biosynthetic process
+negative regulation of transcription from RNA polymerase II promoter
+regulation of establishment of protein localization
+epithelium development
+regulation of cell proliferation
+cellular response to stimulus
+primary metabolic process
+hematopoietic or lymphoid organ development
+protein modification by small protein conjugation or removal
+positive regulation of immune system process
+response to organonitrogen compound
+cell-cell signaling
+response to hormone
+transmembrane receptor protein tyrosine kinase signaling pathway
+localization
+negative regulation of multicellular organismal process
+regulation of metabolic process
+cellular component biogenesis
+carbohydrate metabolic process
+cellular metabolic process
+single-organism cellular process
+positive regulation of cellular component organization
+response to stress
+single-organism metabolic process
+cellular lipid metabolic process
+innate immune response
+response to wounding
+positive regulation of developmental process
+carboxylic acid metabolic process
+membrane organization
+positive regulation of protein modification process
+positive regulation of transcription from RNA polymerase II promoter
+regulation of cellular protein metabolic process
+positive regulation of phosphate metabolic process
+regulation of organelle organization
+negative regulation of signaling
+cellular response to stress
+negative regulation of cell communication
+positive regulation of cellular metabolic process
+regulation of signal transduction
+positive regulation of signal transduction
+protein modification process
+negative regulation of macromolecule metabolic process
+regulation of response to stress
+response to oxygen-containing compound
+nucleobase-containing compound metabolic process
+regulation of cellular localization
+cellular protein metabolic process
+single-organism cellular localization
+immune system process
+carbohydrate derivative metabolic process
+establishment of localization in cell
+protein complex biogenesis
+regulation of transcription, DNA-templated
+nucleic acid-templated transcription
+positive regulation of multicellular organismal process
+multi-organism process
+small molecule metabolic process
+phosphate-containing compound metabolic process
+positive regulation of protein metabolic process
+transmembrane transport
+macromolecular complex assembly
+RNA metabolic process
+single-organism intracellular transport
+regulation of RNA biosynthetic process
+homeostatic process
+regulation of molecular function
+regulation of nucleobase-containing compound metabolic process
+nucleobase-containing compound biosynthetic process
+regulation of biosynthetic process
+nitrogen compound metabolic process
+regulation of macromolecule metabolic process
+positive regulation of biological process
+negative regulation of biological process
+cellular macromolecule biosynthetic process
+catabolic process
+biological regulation
+cell surface receptor signaling pathway
+protein localization
+cell communication
+single organism signaling
+cellular component organization
+organic substance transport
+organic substance biosynthetic process
+gene expression
+regulation of cellular process
